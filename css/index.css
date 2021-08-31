@@ -1,0 +1,138 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.top {
+    width: 100%;
+}
+
+.style {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.contents01 {
+    position: relative;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+.button01_insta {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+
+.button1_insta {
+    width: 65%;
+}
+
+.button01_hp {
+    position: absolute;
+    top: 31.1%;
+    left: 25%;
+}
+
+.button1_hp {
+    width: 65%;
+}
+
+
+.button02_insta {
+    position: absolute;
+    top: 45.9%;
+    left: 25%;
+}
+
+.button2_insta {
+    width: 65%;
+}
+
+.button02_hp {
+    position: absolute;
+    top: 47%;
+    left: 25%;
+}
+
+.button2_hp {
+    width: 65%;
+}
+
+
+.button03_insta {
+    position: absolute;
+    top: 62.7%;
+    left: 25%;
+}
+
+.button3_insta {
+    width: 65%;
+}
+
+.button03_hp {
+    position: absolute;
+    top: 63.8%;
+    left: 25%;
+}
+
+.button3_hp {
+    width: 65%;
+}
+
+
+.button04_insta {
+    position: absolute;
+    top: 78.4%;
+    left: 25%;
+}
+
+.button4_insta {
+    width: 65%;
+}
+
+.button04_hp {
+    position: absolute;
+    top: 79.5%;
+    left: 25%;
+}
+
+.button4_hp {
+    width: 65%;
+}
+
+
+.button05_insta {
+    position: absolute;
+    top: 96.1%;
+    left: 25%;
+}
+
+.button5_insta {
+    width: 65%;
+}
+
+.button05_hp {
+    position: absolute;
+    top: 97.2%;
+    left: 25%;
+}
+
+.button5_hp {
+    width: 65%;
+}
+
+
+
